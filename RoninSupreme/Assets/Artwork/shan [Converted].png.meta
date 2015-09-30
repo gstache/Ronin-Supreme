@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 0814b3d64c5a7214d93cce5a33b6e172
+timeCreated: 1441720465
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shan [Converted]_0
+    21300002: shan [Converted]_1
+    21300004: shan [Converted]_2
+    21300006: shan [Converted]_3
+    21300008: shan [Converted]_4
+    21300010: shan [Converted]_5
+    21300012: shan [Converted]_6
+    21300014: shan [Converted]_7
+    21300016: shan [Converted]_8
+    21300018: shan [Converted]_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shan [Converted]_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2182
+        width: 3162
+        height: 779
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_1
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2544
+        width: 2515
+        height: 430
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_2
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2179
+        width: 2360
+        height: 214
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1691
+        width: 5688
+        height: 380
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_4
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 881
+        width: 899
+        height: 539
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_5
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 881
+        width: 1310
+        height: 553
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_6
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1377
+        width: 2508
+        height: 143
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 669
+        height: 211
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_8
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 3557
+        height: 1223
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shan [Converted]_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 101
+        width: 2203
+        height: 534
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

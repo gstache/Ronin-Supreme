@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: b4f7f6e3284138b4c8e3e47b1759446e
+timeCreated: 1440076767
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: taco sprites_00000_0
+    21300002: taco sprites_00000_1
+    21300004: taco sprites_00000_2
+    21300006: taco sprites_00000_3
+    21300008: taco sprites_00000_4
+    21300010: taco sprites_00000_5
+    21300012: taco sprites_00000_6
+    21300014: taco sprites_00000_7
+    21300016: taco sprites_00000_8
+    21300018: taco sprites_00000_9
+    21300020: taco sprites_00000_10
+    21300022: taco sprites_00000_11
+    21300024: taco sprites_00000_12
+    21300026: taco sprites_00000_13
+    21300028: taco sprites_00000_14
+    21300030: taco sprites_00000_15
+    21300032: taco sprites_00000_16
+    21300034: taco sprites_00000_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: taco sprites_00000_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_16
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: taco sprites_00000_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 300
+        height: 300
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
